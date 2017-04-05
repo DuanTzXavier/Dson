@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dson.iml" filepath="$PROJECT_DIR$/Dson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dson/Dson-Dson.iml" filepath="$PROJECT_DIR$/Dson/Dson-Dson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DsonDemo/DsonDemo.iml" filepath="$PROJECT_DIR$/DsonDemo/DsonDemo.iml" />
+    </modules>
+  </component>
+</project>
